@@ -1,0 +1,6 @@
+function imprimeHasta(x) {
+   for (i=0; i>0; i++)
+}
+imprimeHasta(1000000);
+y = imprimeHasta(-10); 
+console.log(y);
